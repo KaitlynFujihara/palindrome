@@ -1,0 +1,23 @@
+#palindrome, #notpalindrome {
+  display:none;
+}
+
+form {
+  text-align:center;
+}
+
+body {
+  background-color:skyblue;
+  font: lobster
+}
+
+.jumbotron {
+  background-color:darkblue;
+  color: white;
+  font-family: 'Ubuntu', sans-serif;
+
+}
+
+button #submit {
+  background-color: darkblue;
+}
